@@ -1,0 +1,16 @@
+Package: Kelompok2
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: kelompok 2:
+        Dianda Destin		140610220004
+        Alief Rizqi Firmansyah	140610220007
+        Shalfa Salsabilla		140610220009
+        M.Andriyas Musa M.	140610220021
+        Dhia' Fakhira Athallah	140610220023
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
