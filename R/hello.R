@@ -80,11 +80,4 @@ histogram <- function(data) {
           las = 2)  # Mengubah orientasi label x-axis menjadi vertikal
 }
 
-# Membuat 100 nilai acak antara 0 hingga 100
-set.seed(123)  # Seed agar hasil acak dapat direproduksi
-nilai <- sample(0:100, 100, replace = TRUE)
 
-
-frekuensi_sturges(nilai)
-
-histogram(nilai)
